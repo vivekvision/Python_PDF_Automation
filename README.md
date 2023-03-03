@@ -1,1 +1,5 @@
-# Python_PDF_Automation
+# Python PDF Automation
+
+# install python package reportlab
+
+conda install reportlab
